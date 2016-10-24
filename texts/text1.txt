@@ -1,0 +1,57 @@
+Analysing Qualitative DataFrom our: Research Methods library.
+Our pages on Quantitative and Qualitative Data and Collecting Qualitative Data explain the various methods of collecting data. This page details how to make sense of that data once collected.
+
+There are many possible techniques to use, but what is important is that the technique that you use is consistent with the philosophical view that underpins your research.
+
+Many analytical systems can be used for several different sorts of data, so the choice of which to use is fairly subjective. It will depend on the philosophy, and also on your own skills and preferences.
+
+Systems for Analysis of Qualitative Data 
+Involving Language
+Often, the output from qualitative research will be in the form of words.
+
+For example, you may have collected data from or in written texts, or through in-depth interviews or transcripts of meetings. According to Easterby-Smith, Thorpe and Jackson, in their book Management Research, there are six main systems of analysis for language-based data, which may also be used for other types of data.
+
+1. Content Analysis
+Here, you start with some ideas about hypotheses or themes that might emerge, and look for them in the data that you have collected. You might, for example, use a colour-coding or numbering system to identify text about the different themes, grouping together ideas and gathering evidence about views on each theme.
+
+2. Grounded Analysis
+This is similar to content analysis, in that it uses similar techniques for coding. However, in grounded analysis, you do not start from a defined point. Instead, you allow the data to ‘speak for itself’, with themes emerging from the discussions and conversations. In practice, this may be much harder to achieve because it requires you to put aside what you have read and simply concentrate on the data.
+
+Some people, such as Myers-Briggs 'P' types, may find this form of analysis much easier to achieve than others. See our page on Myers-Briggs Type Indicators for more.
+These first two approaches are not really as distinct as the description might lead you to believe.
+
+Instead, the pure approaches lie at opposite ends of a spectrum. For example, a pure content analysis approach would have fixed themes. However, if more information emerges from the data that does not fit with the pre-identified themes, you may want to update and adapt your themes in the course of the research. This approach is moving towards a hybrid approach, and perhaps a more pragmatic approach than either pure system.
+
+3. Social Network Analysis
+This form of analysis examines the links between individuals as a way of understanding what motivates behaviour.
+
+It has been used, for example, as a way of understanding why some people are more successful at work than others, and why some children were more likely to run away from home. This type of analysis may be most useful in combination with other methods, for example after some kind of content or grounded analysis to identify common themes about relationships. It’s often helpful to use a visual approach to this kind of analysis to generate a network diagram showing the relationships between members of a network.
+
+4. Discourse Analysis
+This approach not only analyses conversation, but also takes into account the social context in which the conversation occurs, including previous conversations, power relationships and the concept of individual identity. It may also include analysis of written sources, such as emails or letters, and body language to give a rich source of data surrounding the actual words used.
+
+5. Narrative Analysis
+This looks at the way in which stories are told within an organisation or society to try to understand more about the way in which people think and are organised within groups.
+
+There are four main types of narrative:
+
+bureaucratic, which is highly structured and logical, and often about imposing control;
+quest, where the ambition is to have the most compelling story and lead others to success;
+chaos, where the story is lived, rather than told; and
+postmodern, which is rather like chaos narratives, in that it is lived, but where the ‘narrator’ is aware of the story and what they are trying to achieve.
+6. Conversation Analysis
+This is largely used in ethnographic research. It assumes that conversations are all governed by rules and patterns which remain the same whoever is talking. It also assumes that what is said can only be understood by looking at what went before and after.
+
+Conversation analysis requires a detailed examination of the data, including exactly which words are used, in what order, whether speakers overlap their speech, and where the emphasis is placed. There are therefore detailed conventions used in transcribing for conversation analysis.
+
+Like content and grounded analysis, discourse, narrative and conversation analysis can be considered as on a spectrum of systems for analysing forms of language. Which you use will depend on what you want to achieve from the analysis.
+
+Computer-Aided Analysis
+There are many computer packages designed to support and assist with the analysis of qualitative (language-based) data, these include NVivo, Atlas.ti and the like. Their use is beyond the scope of this page, but they are widely used to analyse large quantities of data, reducing the pressure on a researcher to read and code everything him- or herself.
+
+If you think that your research might need to use a package of this type, you are probably best discussing it with your supervisor or a colleague who has experience of using the package and can advise you about its use.
+
+A Word of Warning
+
+
+Find more at: http://www.skillsyouneed.com/learn/analysing-qualitative-data.html#ixzz4MihFvYJp

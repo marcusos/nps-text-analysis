@@ -1,0 +1,20 @@
+Qualitative data analysis involves the identification, examination, and interpretation of patterns and themes in textual data and determines how these patterns and themes help answer the research questions at hand.
+Qualitative analysis is (NSF, 1997):
+Not guided by universal rules
+Is a very fluid process that is highly dependent on the evaluator and the context of the study
+Likely to change and adapt as the study evolves and the data emerges.
+Therefore, this section will provide a loosely structured guide for the steps you should take when analyzing qualitative data.
+It is important to note that qualitative data analysis is an ongoing, fluid, and cyclical process that happens throughout the data collection stage of your evaluation project and carries over to the data entry and analysis stages. Although the steps listed below are somewhat sequential they do not always (and sometimes should not) happen in isolation of each other.
+As you move between and within the steps of analysis it is important to always keep some guiding questions in mind that will help you reflect back on the study’s purpose, research questions, and potential. Figure 7-3 lists examples of types of questions you should ask yourself throughout the analysis process. Additionally, you may want to click on the following link for additional information on qualitative data analysis: http://learningstore.uwex.edu/Assets/pdfs/G3658-12.pdf.
+QUESTIONS TO ASK YOURSELF THROUGHOUT THE QUALITATIVE ANALYSIS PROCESS
+While analyzing your qualitative data it is important that you continuously ask yourself the following types of questions:
+What patterns/common themes emerge around specific items in the data?  
+How do these patterns (or lack thereof) help to shed light on the broader study question(s)?
+Are there any deviations from these patterns?
+If, yes, what factors could explain these atypical responses?
+What interesting stories emerge from the data?
+How can these stories help to shed light on the broader study question?
+Do any of the patterns/emergent themes suggest that additional data needs to be collected?
+Do any of they study questions need to be revised?
+Do the patterns that emerge support the findings of other corresponding qualitative analyses that have been conducted?
+This figure was adapted from the National Science Foundations’s (1997) Analyzing Qualitative Data. Chapter 4 in User Friendly Handbook for Mixed Methods Evaluations.

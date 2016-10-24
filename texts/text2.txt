@@ -1,0 +1,15 @@
+The analysis of qualitative research involves aiming to uncover and / or understand the big picture - by using the data to describe the phenomenon and what this means. Both qualitative and quantitative analysis involves labelling and coding all of the data in order that similarities and differences can be recognised. Responses from even an unstructured qualitative interview can be entered into a computer in order for it to be coded, counted and analysed. The qualitative researcher, however, has no system for pre-coding, therefore a method of identifying and labelling or coding data needs to be developed that is bespoke for each research. - which is called content analysis.
+
+Content analysis can be used when qualitative data has been collected through:
+
+Interviews
+Focus groups
+Observation
+Documentary analysis
+Content analysis is '...a procedure for the categorisation of verbal or behavioural data, for purposes of classification, summarisation and tabulation.'
+
+The content can be analysed on two levels:
+
+Basic level or the manifest level: a descriptive account of the data i.e. this is what was said, but no comments or theories as to why or how
+Higher level or latent level of analysis: a more interpretive analysis that is concerned with the response as well as what may have been inferred or implied
+Content analysis involves coding and classifying data, also referred to as categorising and indexing and the aim of context analysis is to make sense of the data collected and to highlight the important messages, features or findings.

@@ -1,0 +1,70 @@
+What are Qualitative Data?
+Qualitative data are forms of information gathered in a nonnumeric form. Common examples of such data are:
+Interview transcript
+Field notes (notes taken in the field being studied)
+Video
+Audio recordings
+Images
+Documents (reports, meeting minutes, e-mails)
+image of types of qda data Images of types of qualitative data
+Such data usually involve people and their activities, signs, symbols, artefacts and other objects they imbue with meaning. The most common forms of qualitative data are what people have said or done.
+What is Qualitative Data Analysis?
+Qualitative Data Analysis (QDA) is the range of processes and procedures whereby we move from the qualitative data that have been collected into some form of explanation, understanding or interpretation of the people and situations we are investigating. QDA is usually based on an interpretative philosophy. The idea is to examine the meaningful and symbolic content of qualitative data. For example, by analysing interview data the researcher may be attempting to identify any or all of:
+Someone's interpretation of the world,
+Why they have that point of view,
+How they came to that view,
+What they have been doing,
+How they conveyed their view of their situation,
+How they identify or classify themselves and others in what they say,
+The process of QDA usually involves two things, writing and the identification of themes. Writing of some kind is found in almost all forms of QDA. In contrast, some approaches, such as discourse analysis or conversation analysis may not require the identification of themes (see the discussion later on this page). Nevertheless finding themes is part of the overwhelming majority of QDA carried out today.
+ 
+Writing
+Writing involves writing about the data and what you find there. In many cases what you write may be analytic ideas. In other cases it may be some form of précis or summary of the data, though this usually contains some analytic ideas.
+ 
+Coding into themes
+Looking for themes involves coding. This is the identification of passages of text (or other meaningful phenomena, such as parts of images) and applying labels to them that indicate they are examples of some thematic idea. At its simplest, this labelling or coding process enables researchers quickly to retrieve and collect together all the text and other data that they have associated with some thematic idea so that they can be examined together and different cases can be compared in that respect.
+Examples showing a short passage of coded text.
+Interpreting
+It is easy, when starting QDA both to write and code in ways that are nothing more than descriptive summaries of what participants have said or done. Inevitably even description involves some level of interpretation though the trick is to move away from the kinds of descriptions and interpretations that people would use in the milieu, community or setting you are investigating to a categorisation and analytic understanding that begins to explain why things are as you have found them.
+Organising
+The data sets used in QDA tend to be very large. Though samples may be quite small compared with those used in quantitative approaches such as surveys, the kinds of meaningful data collected (field notes, video recordings and interviews, for example) tend to be very lengthy and require the kind of intensive examination, understanding and reading that only humans can do. In order to keep a clear mind and not become overwhelmed by the sheer amount of data and analytic writings, the analyst needs to be organised.
+Researchers tend to approach this organisation in one of two ways.
+Manual methods
+Notes and interviews are transcribed and transcripts and images etc. are copied. The researcher then uses folders, filing cabinets, wallets etc. to gather together materials that are examples of similar themes or analytic ideas. This facilitates easy retrieval of such linked material, but necessitates two things:
+Making multiple copies of the original data as the same data may represent two or more themes or analytic ideas.
+A careful method of labelling the material in the folders or files so that it is possible to check back and examine the broader context in which that data occurred. The analyst needs to know where the snippets of data in the files came from so that they can be re-contextualised.
+Computer based
+With the advent of the personal computer that proved excellent at manipulating text, it was clear that with the right software much of the manual organisation could be done efficiently with a PC. Thus many researchers have replaced physical files and cabinets with computer based directories and files along with the use of word processors to write and annotate texts. Many analysts now also use dedicated computer assisted qualitative data analysis (CAQDAS) packages that not only make the coding and retrieval of text easy to do, but can add other functions like searching that computers do quickly but which takes humans ages to do or in some cases, which humans have never done. At first the focus of CAQDAS was on text since that was easy to handle on PCs, but now that much audio and video is in digital form too, software has been developed to support the analysis of audio and video data.
+What does qualitative data analysis involve?
+If you have NEVER performed any qualitative data analysis before, AND if you have NEVER attended any methods training there are some aspects of QDA that it might be useful to consider. (If you are considering using CAQDAS software then also take a look at the page on what the software can and cannot do.
+Are you interested in interpreting the data in terms of themes / concepts / ideas / interactions / processes? See How and what to code.
+Then YOU have to do the thinking, the analysis.
+There is no software that can actually do the thinking for you.
+Data may be messy – textual – multimedia.
+You need to give thought to efficient data management.
+You need to find out what literature there is around your research topics.
+Qualitative data usually cannot be reduced to numbers.
+If you ARE just trying to reduce the data to numbers,
+have you properly understood the reasons for doing qualitative research?
+will the sample size and/or sampling method be telling you anything of value at all? (Many qualitative samples are small and not proper random samples).
+see the numbers you are generating only as pointers to more thinking and researching about where and why there are anomalies or exceptions. This may mean more data collection, more thinking, more testing.
+There are many ‘approaches’ to analysing qualitative data. See Methodologies.
+Do you have theories you wish to test, challenge or enlarge upon? See How and what to Code..
+Are you seeking rather to generate theory or an account which emerges from the data (a bottom up approach)? See glossary for e.g. Grounded Theory. See How and what to Code.
+Are you more interested in the way respondents use language to construct their world and themselves and the other people in it? See Social Constructionism or Constructivism described in the Glossary.
+ 
+Noticing, Collecting and Thinking model
+Seidel (1998) developed a useful model to explain the basic process of qualitative data analysis. The model consists of 3 parts: Noticing, Collecting, and Thinking about interesting things. These parts are interlinked and cyclical. For example while thinking about things you notice further things and collect them. Seidel likens the process to solving a jigsaw puzzle. Noticing interesting things in the data and assigning ‘codes’ to them, based on topic or theme, potentially breaks the data into fragments. Codes which have been applied to the data then act as sorting and collection devices.  
+Notice, collect and think model
+Figure 1. The Data Analysis Process (Seidel, 1998)
+ 
+Noticing and Coding
+In  Kelle and Seidel (1995) codes are differentiated in two basic ways; they can act as “objective, transparent representations of facts” or they are heuristic tools to enable further investigation and discovery.  At one level the codes are acting as collection points for significant data. At another level the code labels themselves are acting as markers or pointers to the way you rationalise what it is that you think is happening. At a third level they enable you to continue to make discoveries about deeper realities in the data that is referenced by the codes.
+Development of codes
+The way codes are developed and the timing of this process will depend on whether your research project and your approach is inductive or deductive.  This will be one implication of the methodology used in your research project.
+If you are working inductively (for instance when using Grounded Theory) you may let codes emerge from the data as part of the noticing process that Seidel describes in his model.
+If your approach is deductive you may be seeking to test existing theories or expand on them. In this case you may develop codes which represent the sensitizing ideas concepts and themes within that theory, before you start assigning passages of the data to those codes.
+When might coding not  be appropriate?
+You may decide that your approach and your data do not suit a coding process.
+Discourse analysis: certain traditions of discourse which might include the micro-analysis of small amounts of data (e.g. Conversation Analysis  - see Methodologies page) rely much more on the patterns, structures and language used in speech and the written word. For particular types of discourse analyses handling large amounts of data, there may be a place for coding of a kind as a data management device though usually not for the purposes of thematic analysis and managing ‘interpretive’ annotations to the data as described in the model above.
+The analysis of narrative: where the researcher needs to track sequences, chronology, stories or processes in the data (coding is often too clumsy a tool as it disregards the backwards and forwards nature of much narrative).  If working in hard copy, you might draw lines to connect different parts of a narrative together; if working with software of some sort, you might use a hypertext approach. Do this by creating sequenced hyperlinks between multiple places in the data as an aid to keeping track of the ‘connectedness’ of stories in the data and the ideas that are informing your analysis.  Although arguing in the context of using software for QDA, Coffey, Holbrook and Atkinson (1996) challenged the dominance of coding paradigm “It is, therefore, part of the attraction of hypertext solutions that a sense of dense interconnectedness is preserved, enhanced even, while linearity is discarded”.
